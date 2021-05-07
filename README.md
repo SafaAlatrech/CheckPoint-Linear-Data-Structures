@@ -1,6 +1,5 @@
 # CheckPoint-Linear-Data-Structures : 
-Objective
-
+#Objective : 
 Description: 
 Given two sets of elements, find the sum of all distinct elements from the set. In other words, find the sum of all elements which are present in either of the given set. 
 Example:
@@ -14,7 +13,7 @@ Set 2: [13, 10, 16, 15]
 Sum of overlapping elements: 46
 Explanation: Common elements are 10, 13
 
-Instructions : 
+# Instructions : 
 Problem 1, Solution 1 with an array.
 Initialize sum = 0. Compare each element of set one with the second set and if element is not present then add that element to sum. Then do the vice versa to add elements from the second set. 
 Problem 1, Solution 2 with an hash table.
